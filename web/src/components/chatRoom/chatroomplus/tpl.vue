@@ -419,7 +419,7 @@ import aPlayer from './aPlayer.vue';
               if(this.messages[this.sessionId]){
                   return this.messages[this.sessionId]
               }else {
-                  return []
+                  return [];
               }
             },
             
